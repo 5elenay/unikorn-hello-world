@@ -1,0 +1,6 @@
+{
+    "name": "helloworld",
+    "description": "Unikorn Test Repo",
+    "tags": ["unikorn", "hello", "world"],
+    "pipreq": []
+}
